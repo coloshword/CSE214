@@ -1,0 +1,10 @@
+Acero Liang Li
+113805800
+
+1)O(n^4)
+
+2)O(n)
+
+3) 16 minutes
+
+4) O(n)
